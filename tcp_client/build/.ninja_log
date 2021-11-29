@@ -1,0 +1,16 @@
+# ninja log v5
+1	51	1638067667394212100	CMakeFiles/tcp_server.dir/main.cpp.o	ec0aa9d67e862ca7
+68	197	1638067667542027300	tcp_server	6cf3c2b900af5c02
+3	53	1638067844814954700	CMakeFiles/tcp_client.dir/main.cpp.o	3b7d2b70add6feb6
+57	176	1638067844939384300	tcp_client	f1b1fe827664a5a
+2	68	1638137100425453200	CMakeFiles/tcp_client.dir/main.cpp.o	3b7d2b70add6feb6
+3	65	1638137141109184100	CMakeFiles/tcp_client.dir/main.cpp.o	4bc7a0951c89a58e
+69	228	1638137141272184100	tcp_client	ed3d4906fec1af3c
+3	66	1638137264470653400	CMakeFiles/tcp_client.dir/main.cpp.o	4bc7a0951c89a58e
+70	229	1638137264635534600	tcp_client	ed3d4906fec1af3c
+5	71	1638137685946690400	CMakeFiles/tcp_client.dir/main.cpp.o	4bc7a0951c89a58e
+75	233	1638137686109694200	tcp_client	ed3d4906fec1af3c
+4	71	1638137760894488900	CMakeFiles/tcp_client.dir/main.cpp.o	4bc7a0951c89a58e
+75	229	1638137761055150600	tcp_client	ed3d4906fec1af3c
+4	71	1638138777243490700	CMakeFiles/tcp_client.dir/main.cpp.o	4bc7a0951c89a58e
+74	220	1638138777395588500	tcp_client	ed3d4906fec1af3c
